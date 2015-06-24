@@ -1,0 +1,30 @@
+Vingle
+ - Account
+  - Insert
+ - Card --> 타입을 직원이 입력하게 해야 하나, 용량, 이미지 수량.
+  - Insert
+  - Update
+ - Comment
+
+Content
+ - Site
+  - insert
+ - Page
+  - insert
+
+Event --> 카드 타입에 귀속되나...?
+ - 
+
+Promotion
+ - Page
+  - Insert
+ - Boost
+  - Insert
+
+Payment
+ - Record
+  - Request - 일정 금액, 일정 기간, 수수료
+
+
+
+
